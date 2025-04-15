@@ -1,0 +1,22 @@
+{
+    "token": "TOKEN-DE-TU-BOT",
+    "prefix": ".",
+    "server_name": "Abyssic C4",
+    "server_icon": "https://i.ibb.co/d4PkSGW4/abyssic.png",
+    "channels_name": "pwned by abc4",
+    "webhook_name": "Abyssic C4",
+    "roles_name": "#abc4ontop",
+    "spam_message": "This shit has been pwned by **Abyssic**\n> https://discord.gg/n7gx4PvcbR @everyone",
+    "raid_cooldown": 120,
+    "restr_guilds": [
+        1292168764137144440
+    ],
+    "premium_users": [
+    ],
+    "embed_config": {
+        "title": "Abyssic C4 Nuker",
+        "description": "This shit has been pwned by **Abyssic**\n> https://discord.gg/n7gx4PvcbR",
+        "image_url": "https://images-ext-1.discordapp.net/external/ZQwufKxV0aLWFfxk_E9Hgz-tXzYUJJA7Va8l8Ggl-aA/https/media1.tenor.com/m/JRn_bz5UvCEAAAAd/il-nene-de-oro-joseando.gif",
+        "url": "https://discord.gg/n7gx4PvcbR"
+    }
+}
